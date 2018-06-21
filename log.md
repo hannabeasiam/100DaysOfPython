@@ -16,4 +16,4 @@
 
 **Thoughts:** Glad I was able to review exception handling. 
 
-**Link to work:** [Day1_Note](StudyNote/day2.md)
+**Link to work:** [Day2_Note](StudyNote/day2.md)

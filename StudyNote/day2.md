@@ -1,10 +1,9 @@
 ### Exception
-- D2_check_please.py
-- D2_suggestinator.py
-- D2_purchase_ticket.py - wrap exception with loop
+- [D2_suggestinator.py](D2_suggestinator.py)
+- [D2_purchase_ticket.py - wrap exception with loop](D2_purchase_ticket.py)
 
 ### While loop 
-- D2_password_checker.py
+- [D2_password_checker.py](D2_password_checker.py)
 * good for condition based looping 
 * [D2_password_checkers](D2_check_please.py)
 
