@@ -39,3 +39,7 @@ Objects can have data attributes, or properties, and methods, or behaviors.
 With dotnotation, you can access object's method
 
 String methods.. .upper()  .lower() .title() str()
+
+CONSTANT
+>Constants are usually defined on a module level and written in all capital letters with underscores separating words. 
+Examples include MAX_OVERFLOW and TOTAL.
