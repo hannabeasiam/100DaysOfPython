@@ -9,3 +9,7 @@ optional_invitees = ["ederm", "malica"]
 potential_attendees = attendees + optional_invitees
 
 print("There are", len(attendees), "attendees currently. ")
+
+for attendee in attendees:
+    print(attendee)
+

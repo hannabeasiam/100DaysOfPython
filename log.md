@@ -12,7 +12,7 @@
 ### Day 2: June 21, 2018 (StudyNote) 
 #### Exception Handling, loop
 
-**Today's Progress:** Finish the exception error handling, simple purchase ticket app
+**Today's Progress:** Finish the exception error handling, simple purchase ticket app. Started note for List
 
 **Thoughts:** Glad I was able to review exception handling. 
 

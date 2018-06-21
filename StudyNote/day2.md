@@ -40,3 +40,13 @@ Trailing commas are usually optional, except they are mandatory when making a tu
 have semantics for the print statement). For clarity, it is recommended to surround the latter in (technically redundant)
  parentheses. [Learn More](https://www.python.org/dev/peps/pep-0008/#when-to-use-trailing-commas)
  
+ - del List[] removes the label of that element, doesn't delete the object. 
+ ~~~
+surname = "Rasputin"
+advisor = surname
+del surname
+What is Stored in the variable advisor?
+ ~~~
+ > "Rasputin"
+ del of a variable name, really just deletes that label, not the object it is referencing. 
+ advisor is still around, surname would give you a NameError though
