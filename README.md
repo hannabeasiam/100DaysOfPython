@@ -13,3 +13,5 @@
 ## Reference
 * [Write Pythonic Code Like a Seasoned Developer](https://training.talkpython.fm/courses/details/write-pythonic-code-like-a-seasoned-developer)
 * [Automate The Boring Stuff With Python](https://automatetheboringstuff.com)
+* video _ Raymond Hettinger [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go&ab_channel=NextDayVideo)
+* Treehouse
