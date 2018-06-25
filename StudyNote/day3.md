@@ -11,6 +11,8 @@
 > Insert an item at a given position. i = index 
 - list.remove(x)
 > Remove the first item from the list whose value is x. error if x is not exist in the List
+- del list[i]
+> removing items from iterable or deleting whole variables
 - list. pop([i])
 > Remove the item at the given position index i, and return it. I index is not specified, list.pop() will 
 removes and returns the last item in the list. 
