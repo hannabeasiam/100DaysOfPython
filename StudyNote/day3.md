@@ -67,7 +67,6 @@ while i < len(data):
     print("Now i is {}".format(i))
     print("The value is {}".format(data[i]))
     i += 1
-print()
 
 # write loops like this! 
 for item in data:
@@ -84,7 +83,6 @@ for item in data:
 
 for i in range(0, 10):
     print(i, end=', ')
-print()
 
 print(range(1, 7))
 
@@ -119,7 +117,6 @@ while count < 5:
     count += 1
 else:
     print("In the else clause of the while loop.")
-print()
 
 # >>> .....In the else clause of the while loop.
 print("Breaking out of the while: ", end='')
@@ -131,7 +128,6 @@ while count < 5:
         break
 else:
     print("In the else clause of the early break loop.")
-print()
 
 # >>> ....
 
