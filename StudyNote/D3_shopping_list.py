@@ -36,7 +36,6 @@ Enter 'REMOVE' to delete item in the item list
 
 
 def add_to_list(item):
-    show_list()
     if len(shopping_list):
         position = input("Where should I add {}?\n"
                          "Press ENTER to add to the end of the list\n"
@@ -62,7 +61,7 @@ def show_list():
 
     print("Here's your list: ")
 
-    index = 1l
+    index = 1
     for item in shopping_list:
         print("{}. {}".format(index, item))
         index += 1
@@ -85,7 +84,7 @@ show_help()
 while True:
     new_item = input("> ")
 
-    if new_item.upper() == "DONE" or new_item.upper() == 'QUIT':
+    if new_item.upper() == "DONE" or new_item.upper() == "QUIT":
         break
     elif new_item.upper() == "HELP":
         show_help()
