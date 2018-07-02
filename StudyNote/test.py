@@ -5,7 +5,6 @@ while count < 5:
     count += 1
 else:
     print("In the else clause of the while loop.")
-print()
 
 
 print("Breaking out of the while: ", end='')
@@ -17,4 +16,3 @@ while count < 5:
         break
 else:
     print("In the else clause of the early break loop.")
-print()
