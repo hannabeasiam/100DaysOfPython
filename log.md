@@ -33,3 +33,11 @@ It's challenge to fully understand why we should avoid, then why python allow th
 better understanding next time with this concept.
 
 **Link to work:** [Day3_Note](StudyNote/day3.md)
+
+### Day 4: July,2 2018 (StudyNote) 
+#### Continue shopping list app (More about list)
+
+**Today's Progress:** 
+
+**Thoughts:** Haven't update git-hub log for few days.. Worked on MailSend app. Need to be more diligent on this.  
+**Link to work:** [Day4_Note](StudyNote/day4.md)
