@@ -33,3 +33,4 @@ It's challenge to fully understand why we should avoid, then why python allow th
 better understanding next time with this concept.
 
 **Link to work:** [Day3_Note](StudyNote/day3.md)
+
