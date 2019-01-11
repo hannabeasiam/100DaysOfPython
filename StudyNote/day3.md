@@ -50,6 +50,7 @@ queue # deque(["B", "C", "D", "E"])
 
 #### Call a function until sentinel value, Distinguish multiple exit points in loops...
  **[Very helpful video](https://www.youtube.com/watch?v=OSGv2VnC0go&ab_channel=NextDayVideo)**
+ - but keep in mind it's 2.7 (video)
 #### There is no numerical for loop in python
 ```python
 # There is no such concept in Python:
